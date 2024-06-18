@@ -59,21 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By Speed Tech_*
+*_Session Connected By LIL-LIAMEFFECT Tech_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN SPEED MD』*
+║ *『AMAZING YOU'VE CHOSEN LIL-LIAMEFFECT MD』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@speedtechi
-║❒ *Owner:* _https://wa.me/message/263780934873_
-║❒ *Repo:* _https://github.com/malvinking/Speed-md_
+║❒ *Ytube:* youtube.com/@lilLiamEffectMd
+║❒ *Owner:* _https://wa.me/message/256707089621
+║❒ *Repo:* _https://github.com/LiamEffect55/Lil-LiamEffectMd_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/CibIQyQI3Em1HbUD0aVXez_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z_
-║❒ *Plugins:* _https://github.com/malvinking 
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahZprsEawduA2d6251t
+║❒ *Plugins:* _https://github.com/LiamEffect55 
 ╚════════════════════════╝
 _____________________________________
 	
